@@ -1,6 +1,6 @@
-Terminal Chatbot
+#Terminal Chatbot
 
-# 🧠 AI Shell Agent
+## 🧠 AI Shell Agent
 
 An AI-powered command line agent that converts natural language instructions into executable shell commands using the `granite3.2:8b` LLM locally with [Ollama](https://ollama.com/).
 ```bash
