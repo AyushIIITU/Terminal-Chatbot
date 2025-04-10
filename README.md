@@ -1,4 +1,4 @@
-#Terminal Chatbot
+# Terminal Chatbot
 
 ## 🧠 AI Shell Agent
 
